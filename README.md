@@ -1,3 +1,4 @@
+<img align="center" alt="banner" width="200" src="https://nkvak.medium.com/from-ux-to-web-development-c119a3171bf9">
 <h1 align="center">Hi 👋, I'm Noman Nasir</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
