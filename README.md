@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/mnomanmnasir/mnomanmnasir/main/Noman%20nasir.png" alt="Noman Nasir">
 <h1 align="center">Hi 👋, I'm Noman Nasir</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- 
+<img align="right" alt="Coding" width="400" src="https://vilrotech.com/wp-content/uploads/2023/04/design-uiux-services.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnomanmnasir&label=Profile%20views&color=0e75b6&style=flat" alt="mnomanmnasir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnomanmnasir" alt="mnomanmnasir" /></a> </p>
 
 - 🔭 I’m currently working on **PHARMACY MANAGEMENT SYSTEM**
 
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **mnomanmnasir@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://mnomanmnasir.github.io/portfolio/](https://mnomanmnasir.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
