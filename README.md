@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnomanmnasir&label=Profile%20views&color=0e75b6&style=flat" alt="mnomanmnasir" /> </p>
 
 
-- 🔭 I’m currently working on **PHARMACY MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on **i8is - Infiniti Software Solution**
 
 - 💬 Ask me about **React Native**
 
