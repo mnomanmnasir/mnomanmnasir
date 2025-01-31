@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnomanmnasir&label=Profile%20views&color=0e75b6&style=flat" alt="mnomanmnasir" /> </p>
 
 
-- 🔭 I’m currently working on **i8is - Infiniti Software Solution**
+- 🔭 I’m currently working on **Freelance**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **Full Stack Engineer**
 
 - 📫 How to reach me **mnomanmnasir@gmail.com**
 
